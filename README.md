@@ -1,4 +1,4 @@
-### Hello stranger! <img src="https://github.com/xgoje/xgoje/blob/main/wave.gif" width="30px">
+### Hello stranger! 👋
 
 
 <!--
