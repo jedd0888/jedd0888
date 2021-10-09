@@ -1,5 +1,5 @@
 ### Hello stranger! 👋
-
+My name is Jedd and I am a beginner at 
 
 <!--
 **xgoje/xgoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
