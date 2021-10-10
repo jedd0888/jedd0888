@@ -1,13 +1,5 @@
-### Hello stranger! 👋
+## Hello stranger! 👋
 My name is Jedd and I am a coder who is learning Discord.js :)
-
-### Languages and Software!
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-
-### OS
-<img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 11
 
 <!--
 **xgoje/xgoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
