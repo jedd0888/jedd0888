@@ -1,5 +1,17 @@
-## Hello stranger! 👋
-My name is Jedd and I am a coder who is learning Discord.js :)
+### Introduction 👋
+My name is Jedd
+I am a teen who is interested in coding, especially in languages like JavaScript, HTML and CSS
+
+### Bio
+
+
+### Contact
+> Discord: `jedd#0888`
+> Email: `jedd@moogah.net`
+
+### Stats
+[![xGoje's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgoje&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **xgoje/xgoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
