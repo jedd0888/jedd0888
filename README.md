@@ -7,7 +7,7 @@ I am a teen who is interested in coding, especially in languages like JavaScript
 > Email: `jedd@moogah.net`
 
 ### Stats
-[![xGoje's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgoje&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![xGoje's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgoje&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
