@@ -3,8 +3,8 @@ My name is Jedd
 I am a teen who is interested in coding, especially in languages like JavaScript, and I am trying to learn HTML and CSS
 
 ### Contact
-> Discord: `jedd#0888`
-> Email: `jedd@moogah.net`
+* Discord: `REDACTED`
+* Email: `jedd@moogah.net`
 
 ### Stats
 [![Jedd0888's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedd0888&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
