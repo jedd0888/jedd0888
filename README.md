@@ -5,7 +5,7 @@ I am a teen who is interested in coding, especially in languages like JavaScript
 
 ### Contact
 
-* Discord: `jedd#0001`
+* Discord: `jedd#4960`
 * Email: `jedd@moogah.net`
 
 ### Stats
