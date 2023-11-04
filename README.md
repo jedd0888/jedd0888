@@ -1,5 +1,12 @@
 <h3>Hey 👋🏻</h3>
 
+I like doing cool computing stuff.
+
+Here are some of my projects I've done for my IST course:
+
+- https://github.com/jedddg/bullying-wiki
+- 
+
 <!--
 **xgoje/xgoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
